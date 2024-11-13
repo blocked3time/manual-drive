@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/eeabb0d0-bc1c-4a8a-923c-cbd601c9e491)# manual-drive
+# manual-drive
 
 opencv 와 다이나믹셀을 이용한 모터 제어 시스템
 
